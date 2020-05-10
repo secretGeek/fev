@@ -31,6 +31,7 @@ It looks like this:
     }
 
     set-alias fev Invoke-FavoriteEditor
+    set-alias n fev
 
 
 
